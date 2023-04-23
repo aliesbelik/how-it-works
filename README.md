@@ -1,6 +1,6 @@
 # How it Works
 
-> *“For some reason I've become caught up in this thing about lists.Lists are a good thing. I'll be making many of them in the time to come.\
+> *“For some reason I've become caught up in this thing about lists. Lists are a good thing. I'll be making many of them in the time to come.\
 > I'm making one now.”*\
 > ― Erlend Loe, Naïve. Super
 
@@ -28,6 +28,10 @@ Yet another personal collection of technical things and descriptive explanations
 
 - [Kubernetes Architecture Explained](https://devopscube.com/kubernetes-architecture-explained/)
 - [What happens when I type kubectl run?](https://github.com/jamiehannaford/what-happens-when-k8s)
+
+## Distributed Systems
+
+- [Load Balancing](https://samwho.dev/load-balancing/)
 
 ## Git
 
