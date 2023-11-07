@@ -49,6 +49,10 @@ Yet another personal collection of technical things and descriptive explanations
 - [Password strength explained](https://palant.info/2023/01/30/password-strength-explained/)
 - [Salted password hashing](https://crackstation.net/hashing-security.htm)
 
+## Time
+
+- [Where does my computer get the time from?](https://dotat.at/@/2023-05-26-whence-time.html)
+
 ## Web
 
 - [What happens when...](https://github.com/alex/what-happens-when)
