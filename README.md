@@ -42,6 +42,7 @@ Yet another personal collection of technical things and descriptive explanations
 
 - [What do emojis look like to computers?](https://sethmlarson.dev/utf-8)
 - [Putting the "You" in CPU: a rabbit hole into how your computer runs programs](https://cpu.land/)
+- [Base64 Encoding, Explained](https://www.writesoftwarewell.com/base64-encoding-explained/)
 
 ## Security
 
